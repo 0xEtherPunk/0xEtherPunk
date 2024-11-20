@@ -14,7 +14,7 @@
 
 <!-- Стрик коммитов -->
 <img width="100%" 
-     src="https://github-readme-streak-stats.herokuapp.com/?user=0xEtherPunk&theme=tokyonight&hide_border=true&background=DD272700&rand=123" 
+     src="https://streak-stats.demolab.com/?user=0xEtherPunk&theme=tokyonight&hide_border=true&background=DD272700" 
      alt="GitHub Streak Stats" />
 
 <!-- График активности -->
