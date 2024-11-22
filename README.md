@@ -23,4 +23,7 @@
     <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xEtherPunk&theme=dark" alt="GitHub Profile Summary" style="margin-bottom: 10px;" />
 </a>
 
+<!-- Трофеи GitHub -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=0xEtherPunk&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophy" />
+
 </div>
