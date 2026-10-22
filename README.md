@@ -14,32 +14,18 @@
 </div>
 
 ## 👤 Overview
-> *"Low-level exploration, vulnerability research, network forensics & EVM internals."*
 
-Security engineer and systems developer working across offensive security, OSINT, and blockchain protocols:
-* 🛡️ **Cybersecurity & Exploitation** — Reverse engineering, firmware dissection, memory corruption, and privilege escalation (`/bin/sh root`).
-* 📡 **Network Forensics & Routing** — Deep packet analysis (`pcap`), protocol reverse engineering, and low-level proxy routing daemons.
-* 🔍 **OSINT & Reconnaissance** — Attack surface mapping, automated data correlation, and target intelligence.
-* ⛓️ **Blockchain & Cryptography** — EVM architecture & bytecode security, secure cryptographic key generation with zero memory footprint.
+Engineering low-level software, network infrastructure, and cryptographic tools. Focused on binary analysis, protocol forensics, and EVM architecture.
 
----
-
-<div align="center">
-
-<p align="center">
-  <a href="https://github.com/0xEtherPunk">
-    <img height="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xEtherPunk&layout=donut&theme=tokyonight&hide_border=true&hide=css,html&langs_count=8" alt="Most Used Languages" />
-  </a>
-  <a href="https://github.com/0xEtherPunk">
-    <img height="260" src="https://github-readme-stats.vercel.app/api?username=0xEtherPunk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  </a>
-</p>
-
-</div>
+* **Systems & Low-Level** — Rust, Go, POSIX/Linux. Concurrency, memory layout, system calls, IPC, socket programming.
+* **Security & Vulnerability Research** — Firmware unpacking, binary analysis (ELF/PE), privilege escalation vectors (`/bin/sh root`), reverse engineering.
+* **Network & Forensics** — Protocol dissection, deep packet analysis (`pcap`), traffic redirection, SOCKS5/HTTP routing daemons.
+* **EVM & Blockchain** — Bytecode execution, state machine internals, contract security, cryptographic key generation with memory sanitization.
+* **OSINT** — Target enumeration, attack surface mapping, automated intelligence collection pipelines.
 
 ---
 
-## 🧰 Tech Arsenal & Specializations
+## 🧰 Tech Arsenal
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
@@ -54,7 +40,19 @@ Security engineer and systems developer working across offensive security, OSINT
 <div align="center">
 
 <p align="center">
+  <a href="https://github.com/0xEtherPunk">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xEtherPunk&layout=donut&theme=tokyonight&hide_border=true&hide=css,html&langs_count=8" alt="Most Used Languages" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=0xEtherPunk&theme=tokyonight&hide_border=true&border_radius=8" alt="Commit Streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/0xEtherPunk">
+    <img src="https://github-readme-stats.vercel.app/api?username=0xEtherPunk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  </a>
 </p>
 
 <p align="center">
