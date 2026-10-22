@@ -11,23 +11,22 @@
 
 ---
 
-</div>
+<p align="center">
+  <img src="./slowpoke.gif" height="175" alt="slowpoke" />
+  <img src="./slowpokeBack.gif" height="175" alt="slowpokeBack" />
+</p>
 
-## 👤 Overview
-
-Engineering low-level software, network infrastructure, and cryptographic tools. Focused on binary analysis, protocol forensics, and EVM architecture.
-
-* **Systems & Low-Level** — Rust, Go, POSIX/Linux. Concurrency, memory layout, system calls, IPC, socket programming.
-* **Security & Vulnerability Research** — Firmware unpacking, binary analysis (ELF/PE), privilege escalation vectors (`/bin/sh root`), reverse engineering.
-* **Network & Forensics** — Protocol dissection, deep packet analysis (`pcap`), traffic redirection, SOCKS5/HTTP routing daemons.
-* **EVM & Blockchain** — Bytecode execution, state machine internals, contract security, cryptographic key generation with memory sanitization.
-* **OSINT** — Target enumeration, attack surface mapping, automated intelligence collection pipelines.
+<p align="center">
+  <a href="https://github.com/0xEtherPunk">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xEtherPunk&layout=donut&theme=tokyonight&hide_border=true&hide=css,html&langs_count=8" alt="Most Used Languages" />
+  </a>
+</p>
 
 ---
 
-## 🧰 Tech Arsenal
+</div>
 
-| Domain | Tools & Technologies |
+| | |
 | :--- | :--- |
 | **Security & Exploitation** | ![Firmware](https://img.shields.io/badge/Firmware-Analysis-22272e?style=flat-square&logo=microchip&logoColor=white) ![PCAP Forensics](https://img.shields.io/badge/PCAP-Forensics-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![/bin/sh root](https://img.shields.io/badge/%2Fbin%2Fsh-root%20PrivEsc-000000?style=flat-square&logo=gnubash&logoColor=red) ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-Ghidra%20%2F%20Rizin-8A2BE2?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Traffic Routing](https://img.shields.io/badge/Traffic-SOCKS5%20%2F%20HTTP-0969DA?style=flat-square) |
 | **Blockchain & EVM** | ![EVM](https://img.shields.io/badge/EVM-Bytecode%20%26%20Security-627EEA?style=flat-square&logo=ethereum&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-Smart%20Contracts-363636?style=flat-square&logo=solidity&logoColor=white) ![Solana](https://img.shields.io/badge/Solana-Keygen%20%26%20Memory%20Wipe-14F195?style=flat-square&logo=solana&logoColor=black) |
@@ -38,12 +37,6 @@ Engineering low-level software, network infrastructure, and cryptographic tools.
 ---
 
 <div align="center">
-
-<p align="center">
-  <a href="https://github.com/0xEtherPunk">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xEtherPunk&layout=donut&theme=tokyonight&hide_border=true&hide=css,html&langs_count=8" alt="Most Used Languages" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=0xEtherPunk&theme=tokyonight&hide_border=true&border_radius=8" alt="Commit Streak" />
