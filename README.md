@@ -42,10 +42,6 @@
   <img src="https://streak-stats.demolab.com/?user=0xEtherPunk&theme=tokyonight&hide_border=true&border_radius=8" alt="Commit Streak" />
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.vercel.app/graph?username=0xEtherPunk&theme=react-dark&bg_color=161b22&hide_border=true&area=true&area_color=A177FE&point=fff&line=A177FE&radius=8&custom_title=0xEtherPunk's%20Contribution%20Graph&days=90" width="100%" alt="Activity Graph" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xEtherPunk/0xEtherPunk/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xEtherPunk/0xEtherPunk/output/github-snake.svg">
