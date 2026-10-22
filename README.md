@@ -1,21 +1,84 @@
 <div align="center">
 
-<!-- Змейка коммитов -->
+# 0xEtherPunk
+### Cybersecurity • OSINT • Blockchain Engineering
+
+<p align="center">
+  <a href="https://psp3k.pages.dev"><img src="https://img.shields.io/badge/Web-psp3k.pages.dev-0d1117?style=flat-square&logo=cloudflare-pages&logoColor=white" alt="Website" /></a>
+  <img src="https://img.shields.io/badge/Discord-0xPSP-0d1117?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://namemc.com/profile/0xPSP"><img src="https://img.shields.io/badge/NameMC-0xPSP-0d1117?style=flat-square&logo=minecraft&logoColor=white" alt="NameMC" /></a>
+</p>
+
+---
+
+</div>
+
+## 👤 Overview
+> *"Low-level exploration, vulnerability research, network forensics & EVM internals."*
+
+Security engineer and systems developer working across offensive security, OSINT, and blockchain protocols:
+* 🛡️ **Cybersecurity & Exploitation** — Reverse engineering, firmware dissection, memory corruption, and privilege escalation (`/bin/sh root`).
+* 📡 **Network Forensics & Routing** — Deep packet analysis (`pcap`), protocol reverse engineering, and low-level proxy routing daemons.
+* 🔍 **OSINT & Reconnaissance** — Attack surface mapping, automated data correlation, and target intelligence.
+* ⛓️ **Blockchain & Cryptography** — EVM architecture & bytecode security, secure cryptographic key generation with zero memory footprint.
+
+---
+
+## 🛠️ Selected Projects
+
+- ⚡ **[EVMgen](https://github.com/0xEtherPunk/EVMgen)** — Ultra-fast, zero-trace vanity address generator for EVM & Solana written in Rust with secure memory wipe.
+- 🛡️ **[Chrome-Proxy-Port](https://github.com/0xEtherPunk/Chrome-Proxy-Port)** — Manifest V3 proxy switcher for Chromium/Brave routing traffic through local SOCKS5/HTTP listeners.
+- 🔑 **[passGen](https://github.com/0xEtherPunk/passGen)** — Cryptographically resilient CLI password engine powered by `/dev/urandom` with built-in QR terminal rendering.
+- 📟 **[HexaTui](https://github.com/0xEtherPunk/HexaTui)** — Modern terminal user interface (TUI) chat application with AI integration.
+- 🎮 **Fabric Minecraft Addons** — Game mechanics and hitbox research ([combat-hitbox-addon](https://github.com/0xEtherPunk/combat-hitbox-addon), [Psychedelicraft-addon](https://github.com/0xEtherPunk/Psychedelicraft-addon)).
+
+---
+
+## 🧰 Tech Arsenal & Specializations
+
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Security & Exploitation** | ![Firmware](https://img.shields.io/badge/Firmware-Analysis-22272e?style=flat-square&logo=microchip&logoColor=white) ![PCAP Forensics](https://img.shields.io/badge/PCAP-Forensics-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![/bin/sh root](https://img.shields.io/badge/%2Fbin%2Fsh-root%20PrivEsc-000000?style=flat-square&logo=gnubash&logoColor=red) ![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-Ghidra%20%2F%20Rizin-8A2BE2?style=flat-square) ![Wireshark](https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Traffic Routing](https://img.shields.io/badge/Traffic-SOCKS5%20%2F%20HTTP-0969DA?style=flat-square) |
+| **Blockchain & EVM** | ![EVM](https://img.shields.io/badge/EVM-Bytecode%20%26%20Security-627EEA?style=flat-square&logo=ethereum&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-Smart%20Contracts-363636?style=flat-square&logo=solidity&logoColor=white) ![Solana](https://img.shields.io/badge/Solana-Keygen%20%26%20Memory%20Wipe-14F195?style=flat-square&logo=solana&logoColor=black) |
+| **OSINT & Intelligence** | ![OSINT](https://img.shields.io/badge/OSINT-Reconnaissance-30363d?style=flat-square&logo=search&logoColor=white) ![Asset Mapping](https://img.shields.io/badge/Recon-Attack%20Surface%20Mapping-1f2430?style=flat-square) |
+| **Languages** | ![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) ![Bash](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **Systems & Environment** | ![Linux](https://img.shields.io/badge/Linux-POSIX%20Internals-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white) ![Catppuccin](https://img.shields.io/badge/Catppuccin-Mocha-CBA6F7?style=flat-square) |
+
+---
+
+## 📊 Analytics & Activity
+
+<div align="center">
+
+### 🥧 Language Breakdown & Stats
+
+<p align="center">
+  <a href="https://github.com/0xEtherPunk">
+    <img height="185" src="https://github-readme-stats.vercel.app/api?username=0xEtherPunk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/0xEtherPunk">
+    <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xEtherPunk&layout=donut&theme=tokyonight&hide_border=true&hide=css,html&langs_count=8" alt="Top Languages Donut" />
+  </a>
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=0xEtherPunk&theme=tokyonight&hide_border=true&border_radius=8" alt="Commit Streak" />
+</p>
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://activity-graph.vercel.app/graph?username=0xEtherPunk&theme=react-dark&bg_color=161b22&hide_border=true&area=true&area_color=A177FE&point=fff&line=A177FE&radius=8&custom_title=0xEtherPunk's%20Contribution%20Graph&days=45" width="100%" alt="Activity Graph" />
+</p>
+
+### 🐍 Contribution Grid Snake
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xEtherPunk/0xEtherPunk/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xEtherPunk/0xEtherPunk/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0xEtherPunk/0xEtherPunk/output/github-snake.svg">
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/0xEtherPunk/0xEtherPunk/output/github-snake-dark.svg">
 </picture>
-
-<!-- Статистика языков -->
-<a href="https://github.com/0xEtherPunk">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xEtherPunk&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=fff&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</a>
-
-<!-- Стрик коммитов -->
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xEtherPunk&theme=tokyonight&hide_border=true&background=DD272700" />
-
-<!-- График активности -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xEtherPunk&theme=react-dark&bg_color=20232a&hide_border=true&area=true&area_color=A177FE&point=fff&line=A177FE&radius=8&height=300&custom_title=0xEtherPunk's%20Contribution%20Graph&days=45" width="100%"/>
 
 </div>

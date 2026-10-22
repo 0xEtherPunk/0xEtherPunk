@@ -1,16 +1,21 @@
-name: Generate Snake
+name: Generate Snake and Assets
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@v3
+      - uses: actions/checkout@v4
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
           github_user_name: 0xEtherPunk
           outputs: |
@@ -18,7 +23,16 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=A177FE&color_dots=#52fa5a,#4dfcff,#c64dff,#A177FE,#6d4dff
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - name: Generate Activity Graph SVG
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: 0xEtherPunk
+          output_path: dist/github-activity-graph.svg
+          options: "theme=react-dark&bg_color=161b22&hide_border=true&area=true&area_color=A177FE&point=fff&line=A177FE&radius=8&custom_title=0xEtherPunk's%20Contribution%20Graph&days=45"
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Deploy to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
