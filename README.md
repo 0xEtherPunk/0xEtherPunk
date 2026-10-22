@@ -24,13 +24,18 @@ Security engineer and systems developer working across offensive security, OSINT
 
 ---
 
-## 🛠️ Selected Projects
+<div align="center">
 
-- ⚡ **[EVMgen](https://github.com/0xEtherPunk/EVMgen)** — Ultra-fast, zero-trace vanity address generator for EVM & Solana written in Rust with secure memory wipe.
-- 🛡️ **[Chrome-Proxy-Port](https://github.com/0xEtherPunk/Chrome-Proxy-Port)** — Manifest V3 proxy switcher for Chromium/Brave routing traffic through local SOCKS5/HTTP listeners.
-- 🔑 **[passGen](https://github.com/0xEtherPunk/passGen)** — Cryptographically resilient CLI password engine powered by `/dev/urandom` with built-in QR terminal rendering.
-- 📟 **[HexaTui](https://github.com/0xEtherPunk/HexaTui)** — Modern terminal user interface (TUI) chat application with AI integration.
-- 🎮 **Fabric Minecraft Addons** — Game mechanics and hitbox research ([combat-hitbox-addon](https://github.com/0xEtherPunk/combat-hitbox-addon), [Psychedelicraft-addon](https://github.com/0xEtherPunk/Psychedelicraft-addon)).
+<p align="center">
+  <a href="https://github.com/0xEtherPunk">
+    <img height="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xEtherPunk&layout=donut&theme=tokyonight&hide_border=true&hide=css,html&langs_count=8" alt="Most Used Languages" />
+  </a>
+  <a href="https://github.com/0xEtherPunk">
+    <img height="260" src="https://github-readme-stats.vercel.app/api?username=0xEtherPunk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  </a>
+</p>
+
+</div>
 
 ---
 
@@ -46,34 +51,15 @@ Security engineer and systems developer working across offensive security, OSINT
 
 ---
 
-## 📊 Analytics & Activity
-
 <div align="center">
-
-### 🥧 Language Breakdown & Stats
-
-<p align="center">
-  <a href="https://github.com/0xEtherPunk">
-    <img height="185" src="https://github-readme-stats.vercel.app/api?username=0xEtherPunk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/0xEtherPunk">
-    <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xEtherPunk&layout=donut&theme=tokyonight&hide_border=true&hide=css,html&langs_count=8" alt="Top Languages Donut" />
-  </a>
-</p>
-
-### 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=0xEtherPunk&theme=tokyonight&hide_border=true&border_radius=8" alt="Commit Streak" />
 </p>
 
-### 📈 Activity Graph
-
 <p align="center">
   <img src="https://activity-graph.vercel.app/graph?username=0xEtherPunk&theme=react-dark&bg_color=161b22&hide_border=true&area=true&area_color=A177FE&point=fff&line=A177FE&radius=8&custom_title=0xEtherPunk's%20Contribution%20Graph&days=45" width="100%" alt="Activity Graph" />
 </p>
-
-### 🐍 Contribution Grid Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xEtherPunk/0xEtherPunk/output/github-snake-dark.svg">
