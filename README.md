@@ -42,10 +42,4 @@
   <img src="https://streak-stats.demolab.com/?user=0xEtherPunk&theme=tokyonight&hide_border=true&border_radius=8" alt="Commit Streak" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xEtherPunk/0xEtherPunk/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xEtherPunk/0xEtherPunk/output/github-snake.svg">
-  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/0xEtherPunk/0xEtherPunk/output/github-snake-dark.svg">
-</picture>
-
 </div>
