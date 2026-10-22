@@ -43,13 +43,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/0xEtherPunk">
-    <img src="https://github-readme-stats.vercel.app/api?username=0xEtherPunk&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.vercel.app/graph?username=0xEtherPunk&theme=react-dark&bg_color=161b22&hide_border=true&area=true&area_color=A177FE&point=fff&line=A177FE&radius=8&custom_title=0xEtherPunk's%20Contribution%20Graph&days=45" width="100%" alt="Activity Graph" />
+  <img src="https://activity-graph.vercel.app/graph?username=0xEtherPunk&theme=react-dark&bg_color=161b22&hide_border=true&area=true&area_color=A177FE&point=fff&line=A177FE&radius=8&custom_title=0xEtherPunk's%20Contribution%20Graph&days=90" width="100%" alt="Activity Graph" />
 </p>
 
 <picture>
