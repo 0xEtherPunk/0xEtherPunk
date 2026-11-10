@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/0xEtherPunk">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xEtherPunk&layout=donut&theme=tokyonight&hide_border=true&hide=css,html&langs_count=8" alt="Most Used Languages" />
+    <img width="400" src="https://github-stats-extended.vercel.app/api/top-langs/?username=0xEtherPunk&layout=donut&theme=tokyonight&hide_border=true&hide=css,html&langs_count=8" alt="Most Used Languages" />
   </a>
 </p>
 
